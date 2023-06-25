@@ -2,7 +2,7 @@
 
 Team Name- Elite Version
 Team Leader Name- Pragya Paliwal 
-Team Leader Email Address-  pragyapaliwal294@gmail.com
+
 
 Brief Summary of Project:
 
